@@ -2,8 +2,8 @@ package com.driver;
 
 public class Main {
   B child=new B();
-  child.meth;
-  child.meth;
+  System.out.println(child.meth);
+  System.out.println(child.meth);
   
 }
 class A{
